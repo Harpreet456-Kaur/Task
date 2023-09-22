@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="Default">Add Default List Count</string>
+    <string name="SAVE">SAVE</string>
+    <string name="Edit">EDIT</string>
+    <string name="Add">ADD</string>
+    <string name="edit">Edit and Delete</string>
+</resources>
